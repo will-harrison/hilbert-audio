@@ -6,7 +6,7 @@
     "hilbert": "^2.0.0",
     "konva": "^2.1.7",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-konva": "^1.7.12",
     "react-scripts": "1.1.4",
     "styled-components": "^3.3.3"
