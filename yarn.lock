@@ -3131,6 +3131,11 @@ he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
+hilbert@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hilbert/-/hilbert-2.0.0.tgz#546f7d8b28f851d29d7444f954b3ce8964db5f85"
+  integrity sha1-VG99iyj4UdKddET5VLPOiWTbX4U=
+
 hmac-drbg@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/hmac-drbg/-/hmac-drbg-1.0.1.tgz#d2745701025a6c775a6c545793ed502fc0c649a1"
